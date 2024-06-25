@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "bb6f",
+      "title": "Codingers : Generasi Baru Pengubah Dunia Digital",
+      "content": "Di era digital yang terus berkembang pesat, istilah \"Codingers\" merujuk pada generasi baru para pengembang dan programmer yang mengubah dunia melalui baris-baris kode. Mereka adalah para inovator yang memanfaatkan teknologi untuk menciptakan solusi kreatif dan efektif terhadap berbagai permasalahan di masyarakat.\n\nCodingers adalah sebutan untuk individu yang memiliki kemampuan dalam bidang pemrograman komputer. Mereka tidak hanya menguasai berbagai bahasa pemrograman seperti Python, JavaScript, dan C++, tetapi juga memiliki kemampuan analitis yang kuat serta kreativitas tinggi. Codingers seringkali terlibat dalam pengembangan aplikasi, situs web, perangkat lunak, dan bahkan kecerdasan buatan."
+    },
+    {
+      "id": "83c7",
+      "title": "Teknik Informatika: Fondasi Utama Revolusi Digital",
+      "content": "Teknik Informatika adalah bidang studi yang menggabungkan ilmu komputer dan teknologi informasi untuk merancang, mengembangkan, dan memelihara sistem perangkat lunak dan perangkat keras. Dalam era digital yang semakin maju, Teknik Informatika menjadi pilar utama yang mendorong inovasi dan efisiensi di berbagai sektor industri.\n\nTeknik Informatika adalah disiplin ilmu yang mempelajari tentang pemrograman, analisis sistem, jaringan komputer, keamanan siber, dan manajemen data. Bidang ini mencakup berbagai aspek teknologi informasi, mulai dari desain algoritma hingga pengembangan aplikasi dan infrastruktur TI."
+    }
+  ]
+}
